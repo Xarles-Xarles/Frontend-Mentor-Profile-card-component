@@ -29,7 +29,7 @@ body{
 
 .bg-bottom{
     position: absolute;
-    bottom: -500px;
+    bottom: -800px;
     right: -300px;
     z-index: -1;
   
